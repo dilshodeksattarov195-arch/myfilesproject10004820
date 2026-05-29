@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvonnect",
+        "uuid": 45062180,
+        "checksum": "fq7bqm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
